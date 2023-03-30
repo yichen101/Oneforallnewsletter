@@ -1,0 +1,36 @@
+.text {
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+li {
+    font-size: large;
+    list-style-type: none
+}
+
+.card {
+    width: 85%;
+    border: 5px solid #cc4b7e;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: #cc4b7e;
+    align-items: center;
+    border-radius: 5px;
+    color: white;
+    font-size: 17px;
+    
+}
+
+.title {
+    color: black;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.title:hover {
+    color: white;
+}

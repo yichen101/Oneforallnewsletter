@@ -1,0 +1,16 @@
+.textCenter {
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+}
+.backgroundColor {
+    background-color: #e0aeac;
+}
+
+.img {
+    display: block;
+    margin: auto;
+    width: 15%;
+    padding-top: 10px;
+}

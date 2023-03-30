@@ -1,0 +1,17 @@
+.box {
+    width: 40%;
+    border: 5px solid antiquewhite;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: antiquewhite;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+
+.textCenter {
+    text-align: center;
+}
