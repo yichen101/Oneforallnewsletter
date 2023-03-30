@@ -5,7 +5,15 @@
 <img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/images/Homepage.PNG" width="356" height="200"> <img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/images/Tabpages.png" width="356" height="200">
 
 The Scrapy library is used in Python to scrap articles & links from sites such as the Financial Times, The Telegraph, etc. The scraped data for each site is saved into it's own json file which is then uploaded to Firebase Readltime Database.
+
+Using React, fetch the data using a Firebase API and load the correct data on correct page.
+
 <img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/images/Pipeline.PNG" width="700" height="270">
+
+
+Each page has the feature to search, a menu to quickly scroll to a desired section of the page, and a 'Back to top' button.
+
+The main page has articles across all sites 
 
 FOLDER 'python-code' contains code for web scraping and uploading data to Firebase.
 
