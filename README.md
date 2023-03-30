@@ -13,7 +13,7 @@ Using React, fetch the data via a Firebase API and load the correct data onto th
 
 # Features
 * Each page has the feature to search, a menu bar to quickly scroll to a desired section of the page, and a 'Back to top' button.
-* The Home page has articles across all sites, which is the ideal way to use the 'Search' feature.
+* The Home page contains articles across ALL sites, making it the ideal page to use the 'Search' feature.
 
 # Code Files Explained
 * The 'python-code' folder contains code for web scraping and uploading data to Firebase.
