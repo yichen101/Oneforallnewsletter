@@ -46,7 +46,7 @@ function TelegraphPage() {
   return (
     <div className={classes.backgroundColor}>
       <ScrollToTop/>
-      <img src='https://raw.githubusercontent.com/yichen101/Projectimages/main/images/telegraph_banner.png' alt='Telegraph logo' className={classes.img}/>
+      <img src='https://raw.githubusercontent.com/yichen101/Projectimages/main/images/telegraph_banner.jpg' alt='Telegraph logo' className={classes.img}/>
         <div id ='mainContent'>
           <div className='menuPosition'>
             <MenuTabWhite sections={pageSectionList}/>
