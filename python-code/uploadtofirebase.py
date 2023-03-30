@@ -4,13 +4,13 @@ from pprint import pprint as pp
 import json
 
 firebaseConfig = {
-  "apiKey": "AIzaSyDhQBIppaOuzhTNuA1Jf3TZrN7w0E_-vG4",
-  "authDomain": "news-firebase-8a2f0.firebaseapp.com",
-  "databaseURL": "https://news-firebase-8a2f0-default-rtdb.europe-west1.firebasedatabase.app",
-  "projectId": "news-firebase-8a2f0",
-  "storageBucket": "news-firebase-8a2f0.appspot.com",
-  "messagingSenderId": "254798211096",
-  "appId": "1:254798211096:web:4b49433df73fbc37a73b6d"
+  "apiKey": "GET FROM FIREBASE",
+  "authDomain": "GET FROM FIREBASE",
+  "databaseURL": "GET FROM FIREBASE",
+  "projectId": "GET FROM FIREBASE",
+  "storageBucket": "GET FROM FIREBASE",
+  "messagingSenderId": "GET FROM FIREBASE",
+  "appId": "GET FROM FIREBASE"
 }
 
 def get_jsonfiles(file_path = 'C:/Users/drago/scrapyprojects/news/'):
