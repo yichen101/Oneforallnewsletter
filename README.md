@@ -1,5 +1,5 @@
 # "One For All" Newsletter
-"One For All Newsletter" was created to allow users to use only one website to view the latest news & articles from several popular magazine/newspaper sites of their choice.
+"One For All" Newsletter was created to allow users to use only one website to view the latest news & articles from several popular magazine/newspaper sites of their choice.
 
 
 Step 1: List all interested newspaper sites
