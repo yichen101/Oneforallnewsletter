@@ -12,7 +12,7 @@ function EconomistPage() {
 
   //Pull Economist data
   useEffect (() => {
-    Axios.get("ENTER YOUR API") //Pull Economist data
+    Axios.get("ENTER YOUR API")
       .then((response) => {
         //console.log(response)
         setListOfArticles(response.data)
