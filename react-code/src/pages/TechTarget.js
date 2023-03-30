@@ -12,7 +12,7 @@ function TechTargetPage() {
   
   //Pull TechTarget data
   useEffect (() => {
-    Axios.get("https://news-firebase-8a2f0-default-rtdb.europe-west1.firebasedatabase.app/tt_data.json")
+    Axios.get("ENTER YOUR API")
       .then((response) => {
         //console.log(response)
         setListOfArticles(response.data)
