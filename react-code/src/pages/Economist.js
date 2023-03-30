@@ -12,7 +12,7 @@ function EconomistPage() {
 
   //Pull Economist data
   useEffect (() => {
-    Axios.get("https://news-firebase-8a2f0-default-rtdb.europe-west1.firebasedatabase.app/economist_data.json") //Pull Economist data
+    Axios.get("ENTER YOUR API") //Pull Economist data
       .then((response) => {
         //console.log(response)
         setListOfArticles(response.data)
