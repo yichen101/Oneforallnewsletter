@@ -4,14 +4,15 @@
 
 <img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/images/Homepage.PNG" width="356" height="200"> <img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/images/Tabpages.png" width="356" height="200">
 
-Step 1: List all interested newspaper sites
-
-Step 2: Use Scrapy in Python to scrap articles.Task create a React app that
+The Scrapy library is used in Python to scrap articles & links from sites such as the Financial Times, The Telegraph, etc. The scraped data for each site is saved into it's own json file which is then uploaded to Firebase Readltime Database.
 <img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/images/Pipeline.PNG" width="700" height="270">
 
-File 'python-code' contains code for web scraping and uploading data to Firebase.
+FOLDER 'python-code' contains code for web scraping and uploading data to Firebase.
 
-File 'react-code' contains front-end react code.
+FOLDER 'react-code' contains front-end react code.
+
+
+
 
 # Libraries/Packages to install, enter into terminal
 To create React app: `npx create-react-app .`
