@@ -13,7 +13,7 @@ firebaseConfig = {
   "appId": "GET FROM FIREBASE"
 }
 
-def get_jsonfiles(file_path = 'C:/Users/drago/scrapyprojects/news/'):
+def get_jsonfiles(file_path = 'C:/Users/scrapyprojects/news/'):
     all_files = os.listdir(file_path) # get all files in directory
     json_files = [file for file in all_files if file[-5:] == '.json'] #get only json files
     return json_files
