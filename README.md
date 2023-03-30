@@ -1,12 +1,13 @@
 # "One For All" Newsletter
-"One For All" Newsletter was created to allow users to use only one website to view the latest news & articles from several popular magazine/newspaper sites of their choice.
 
+"One For All" Newsletter was created to allow users to use only one website to view the latest news & articles from several popular magazine/newspaper sites of their choice.
+<img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/images/Homepage.PNG" width="480" height="270">
+<img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/images/Tabpages.png" width="480" height="270">
 
 Step 1: List all interested newspaper sites
 
 Step 2: Use Scrapy in Python to scrap articles.Task create a React app that
-<img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/Pipeline.PNG" width="700" height="270">
-
+<img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/images/Pipeline.PNG" width="700" height="270">
 
 File 'python-code' contains code for web scraping and uploading data to Firebase.
 
