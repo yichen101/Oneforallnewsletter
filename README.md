@@ -1,6 +1,8 @@
 # "One For All" Newsletter
 
-"One For All" Newsletter was created to allow users to use only one website to view the latest news & articles from several popular magazine/newspaper sites of their choice.
+"One For All" Newsletter was created solve one problem for avid readers. The problem of wasting time jumping from one site to another to keep updated with the latest news.  
+
+"One For All" Newsletter to allow users to use only one website to view the latest news & articles from several popular magazine/newspaper sites of their choice.
 
 <img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/images/Homepage.PNG" width="356" height="200"> <img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/images/Tabpages.png" width="356" height="200">
 
