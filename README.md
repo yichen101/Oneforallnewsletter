@@ -28,7 +28,7 @@ Using React, fetch the data via a Firebase API and load the correct data onto th
 
 **PYTHON**:
 * To install Scrapy: `pip install scrapy`
-* To upload to Firebase: pip install pyrebase4`
+* To upload to Firebase: `pip install pyrebase4`
 
 # System information
 Platform: Windows-10
