@@ -12,7 +12,7 @@ function FoolPage() {
 
   //Pull Fool data
   useEffect (() => {
-    Axios.get("https://news-firebase-8a2f0-default-rtdb.europe-west1.firebasedatabase.app/fool_data.json")
+    Axios.get("ENTER YOUR API")
       .then((response) => {
         //console.log(response.data)
         setListOfArticles(response.data)
