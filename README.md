@@ -2,4 +2,4 @@
 
 Task create a React app that
 
-<img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/Pipeline.PNG" width="600" height="270">
+<img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/Pipeline.PNG" width="800" height="270">
