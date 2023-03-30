@@ -1,4 +1,5 @@
 # "One For All" Newsletter
 
-Task create a React app that 
-<img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/Pipeline.PNG" width="400" height="270">
+Task create a React app that
+
+<img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/Pipeline.PNG" width="600" height="270">
