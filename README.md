@@ -15,6 +15,7 @@ FOLDER 'react-code' contains front-end react code.
 
 
 # Libraries/Packages to install, enter into terminal
+REACT:
 To create React app: `npx create-react-app .`
 
 To run the app in development mode: `npm start` 
@@ -22,6 +23,8 @@ To run the app in development mode: `npm start`
 To fetch data from API: `npm install axios`
 
 To enable routing in app: `npm install react-router-dom`
+PYTHON:
+`pip install scrapy`
 
 # System information
 Platform: Windows-10
