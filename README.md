@@ -14,7 +14,7 @@ Using React, fetch the data via a Firebase API and load the correct data onto th
 <img src="https://raw.githubusercontent.com/yichen101/Oneforallnewsletter/main/images/Pipeline.PNG" width="700" height="270">
 
 # Features
-* Each page has the feature to search, a menu bar to quickly scroll to a desired section of the page, and a 'Back to top' button.
+* Each page has the feature to search for articles, a menu bar to quickly scroll to a desired section of the page, and a 'Back to top' button.
 * The Home page contains articles across ALL sites, making it the ideal page to use the 'Search' feature.
 
 # Code Files Explained
